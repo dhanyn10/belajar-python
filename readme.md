@@ -9,3 +9,5 @@ berdasarkan seri kode ISBN, adapun kodenya adalah sebagai berikut:
 ```
 978-602-1514-89-4
 ```
+### Hanya dari buku?
+Tidak, sebagian besar memang merupakan uji coba dari yang ditulis di buku(dengan perubahan tentunya). sebagian lain adalah ujicoba berdasarkan ide eksternal.
